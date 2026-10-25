@@ -63,9 +63,9 @@ export default function App() {
         <div className="brand">Wind Day-Ahead Briefing</div>
         <h1>See the wind forecast that mattered at gate.</h1>
         <p>
-          National GB wind for January 2026 day-ahead procurement: the forecast
-          available before morning auctions on D−1, and how accurate those
-          decision-time forecasts were versus outturn.
+          National wind for UK day-ahead procurement in January 2026: the
+          forecast available before morning auctions on D−1, and how accurate
+          those decision-time forecasts were versus outturn.
         </p>
       </header>
 
