@@ -1,6 +1,9 @@
 {
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "https://REPLACE_WITH_BACKEND_URL/api/$1" },
+    {
+      "source": "/api/(.*)",
+      "destination": "https://wind-forecast-backend-nz9g.onrender.com/api/$1"
+    },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
